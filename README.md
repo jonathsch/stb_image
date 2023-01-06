@@ -3,7 +3,7 @@ Basic [STB Image](https://github.com/nothings/stb.git) wrapper for CMake Project
 
 ## Usage
 
-Clone the repo or add as submodule and add the following to your CMakeLists.txt
+Clone the repo and add the following to your CMakeLists.txt
 
 ```
 add_subdirectory(stb)
